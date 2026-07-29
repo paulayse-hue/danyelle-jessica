@@ -55,9 +55,10 @@ export default function Home() {
       </section>
 
 
-      <footer className="bg-gray-900 text-white text-center p-6">
-        © 2026 Danyelle Jessica - Todos os direitos reservados
-      </footer>
+      <<footer className="bg-gray-900 text-white text-center p-6">
+  <p>© 2026 Danyelle Jessica - Todos os direitos reservados</p>
+  <p>CNPJ: 12.345.670/0001-90</p>
+</footer>
 
     </main>
   );
